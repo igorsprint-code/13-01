@@ -28,6 +28,8 @@
 
 Обнаруженные уязвимости:
 
+1. https://www.exploit-db.com/exploits/49757
+
 
 
 
