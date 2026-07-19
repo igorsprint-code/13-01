@@ -23,7 +23,7 @@
 
 ### Решение
 
-![screen](screenshots/ssv.png)
+![screen](/screenshots/ssV.png)
 ---
 
 
