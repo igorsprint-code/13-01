@@ -72,8 +72,15 @@
 ![screen](screenshots/ws_sF_2.png)
 
 
-### Сканирование в режиме FIN.
+### Сканирование в режиме Xmas.
 
+Отправляем пакет на порт с  флагом FIN PUSH URG, ответ не получаем.
+
+![screen](screenshots/Xmas.png)
+
+Если отправляем на закрытый порт, получаем ответ RST-ACK
+
+![screen](screenshots/Xmas2.png)
 
 
 
