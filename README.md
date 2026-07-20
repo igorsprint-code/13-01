@@ -83,4 +83,14 @@
 ![screen](screenshots/Xmas2.png)
 
 
+### Сканирование в режиме UDP
+
+Получаем ICMP ответ Destination unreachable
+
+![screen](screenshots/udp.png)
+
+
+
+
+
 
